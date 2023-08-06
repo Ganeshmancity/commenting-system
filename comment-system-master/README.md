@@ -54,4 +54,8 @@ npm start
 - Redis
 - WebSockets
 - JWT
+- ![image](https://github.com/Ganeshmancity/commenting-system/assets/85098991/513c1a2a-3216-4b91-9d27-9c1e78347a68)
+- ![image](https://github.com/Ganeshmancity/commenting-system/assets/85098991/4f4ec71d-c28f-4e12-be89-8aa924c4ed7e)
+
+
 ![image](https://github.com/Ganeshmancity/commenting-system/assets/85098991/60a43b32-7433-48b9-8ef1-866c521f4086)
