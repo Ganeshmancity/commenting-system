@@ -2,13 +2,12 @@
 
 #### Single Page Application (SPA) to demonstrate real-time comments using MERN Stack.
 
-## Video Walkthrough of Realtime Commenting System
-> https://youtu.be/8bGpU7fMBU0
+
 
 ## Installation
 ```bash
 # Clone this repository
-git clone https://github.com/sairajsawant/comment-system.git
+git clone https://github.com/Ganeshmancity/comment-system.git
 
 # Fire up MongoDB container
 docker run -d -p 27017:27017 --restart unless-stopped --name commentsmongo mongo
