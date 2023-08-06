@@ -2,8 +2,6 @@
 
 #### Single Page Application (SPA) to demonstrate real-time comments using MERN Stack.
 
-
-
 ## Installation
 ```bash
 # Clone this repository
